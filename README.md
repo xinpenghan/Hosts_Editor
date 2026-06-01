@@ -34,5 +34,5 @@ Open the software and edit the Hosts file directly.
 
 ## Screenshot
 
-<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/1.png" />
 <img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/2.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/1.png" />
