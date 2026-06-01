@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Vditor" src="https://xinpenghan.github.io/DNS-Speed-Test/image/logo.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/logo.png" />
 <br>
 <h3>Hosts Editor</h3>
 
