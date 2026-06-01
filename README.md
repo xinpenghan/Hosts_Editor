@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Vditor" src="https://xinpenghan.github.io/DNS-Speed-Test/image/logo.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/logo.png" />
 <br>
 <h3>DNS Speed Test</h3>
 
@@ -27,11 +27,12 @@ This software collects DNS addresses from around the world and supports speed te
  <img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/paypal.png" width="200" />
 
 ## Download link
-   - 📦 **[stable version](https://github.com/xinpenghan/DNS-Speed-Test/releases/)**
+   - 📦 **[stable version](https://github.com/xinpenghan/Hosts_Editor/releases/)**
 
 <br>
 
 
 ## Screenshot
 
-<img alt="Vditor" src="https://xinpenghan.github.io/DNS-Speed-Test/image/2.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/1.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/2.png" />
