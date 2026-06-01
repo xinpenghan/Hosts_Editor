@@ -2,7 +2,7 @@
   
 <img alt="Vditor" src="https://xinpenghan.github.io/Hosts_Editor/image/logo.png" />
 <br>
-<h3>DNS Speed Test</h3>
+<h3>Hosts Editor</h3>
 
 <a title="MIT" target="_blank" href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square"></a>
 <br>
@@ -14,7 +14,7 @@
 
 <p>
 
-This software collects DNS addresses from around the world and supports speed testing for these global DNS addresses.
+Open the software and edit the Hosts file directly.
 
 </p>
 <br>
